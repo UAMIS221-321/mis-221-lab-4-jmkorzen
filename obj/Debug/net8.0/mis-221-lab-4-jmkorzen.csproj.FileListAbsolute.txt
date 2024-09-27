@@ -1,0 +1,15 @@
+C:\Users\jkorz\OneDrive\University of Alabama\Fall 2024 Classes\MIS 221\labs\mis-221-lab-4-jmkorzen\obj\Debug\net8.0\mis-221-lab-4-jmkorzen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkorz\OneDrive\University of Alabama\Fall 2024 Classes\MIS 221\labs\mis-221-lab-4-jmkorzen\obj\Debug\net8.0\mis-221-lab-4-jmkorzen.AssemblyInfoInputs.cache
+C:\Users\jkorz\OneDrive\University of Alabama\Fall 2024 Classes\MIS 221\labs\mis-221-lab-4-jmkorzen\obj\Debug\net8.0\mis-221-lab-4-jmkorzen.AssemblyInfo.cs
+C:\Users\jkorz\OneDrive\University of Alabama\Fall 2024 Classes\MIS 221\labs\mis-221-lab-4-jmkorzen\obj\Debug\net8.0\mis-221-lab-4-jmkorzen.csproj.CoreCompileInputs.cache
+C:\Users\jkorz\OneDrive\University of Alabama\Fall 2024 Classes\MIS 221\labs\mis-221-lab-4-jmkorzen\obj\Debug\net8.0\mis-221-lab-4-jmkorzen.sourcelink.json
+C:\Users\jkorz\OneDrive\University of Alabama\Fall 2024 Classes\MIS 221\labs\mis-221-lab-4-jmkorzen\bin\Debug\net8.0\mis-221-lab-4-jmkorzen.exe
+C:\Users\jkorz\OneDrive\University of Alabama\Fall 2024 Classes\MIS 221\labs\mis-221-lab-4-jmkorzen\bin\Debug\net8.0\mis-221-lab-4-jmkorzen.deps.json
+C:\Users\jkorz\OneDrive\University of Alabama\Fall 2024 Classes\MIS 221\labs\mis-221-lab-4-jmkorzen\bin\Debug\net8.0\mis-221-lab-4-jmkorzen.runtimeconfig.json
+C:\Users\jkorz\OneDrive\University of Alabama\Fall 2024 Classes\MIS 221\labs\mis-221-lab-4-jmkorzen\bin\Debug\net8.0\mis-221-lab-4-jmkorzen.dll
+C:\Users\jkorz\OneDrive\University of Alabama\Fall 2024 Classes\MIS 221\labs\mis-221-lab-4-jmkorzen\bin\Debug\net8.0\mis-221-lab-4-jmkorzen.pdb
+C:\Users\jkorz\OneDrive\University of Alabama\Fall 2024 Classes\MIS 221\labs\mis-221-lab-4-jmkorzen\obj\Debug\net8.0\mis-221-lab-4-jmkorzen.dll
+C:\Users\jkorz\OneDrive\University of Alabama\Fall 2024 Classes\MIS 221\labs\mis-221-lab-4-jmkorzen\obj\Debug\net8.0\refint\mis-221-lab-4-jmkorzen.dll
+C:\Users\jkorz\OneDrive\University of Alabama\Fall 2024 Classes\MIS 221\labs\mis-221-lab-4-jmkorzen\obj\Debug\net8.0\mis-221-lab-4-jmkorzen.pdb
+C:\Users\jkorz\OneDrive\University of Alabama\Fall 2024 Classes\MIS 221\labs\mis-221-lab-4-jmkorzen\obj\Debug\net8.0\mis-221-lab-4-jmkorzen.genruntimeconfig.cache
+C:\Users\jkorz\OneDrive\University of Alabama\Fall 2024 Classes\MIS 221\labs\mis-221-lab-4-jmkorzen\obj\Debug\net8.0\ref\mis-221-lab-4-jmkorzen.dll
